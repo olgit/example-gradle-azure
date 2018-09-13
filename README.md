@@ -1,4 +1,4 @@
-# Black Duck CoPilot Gradle/Travis CI Example
+# Black Duck CoPilot Gradle/Azure Pipelines Example
 
 
 
