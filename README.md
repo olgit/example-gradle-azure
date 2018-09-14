@@ -11,4 +11,3 @@ The `azure-pipelines.yml` file has been modified to upload generated dependency 
 ```yaml
 - script: bash <(curl -s https://copilot-valid.blackducksoftware.com/ci/azure/scripts/upload)
 ```
-
